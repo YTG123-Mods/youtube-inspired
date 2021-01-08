@@ -1,0 +1,6 @@
+[submodule "manhunt-fabric"]
+	path = manhunt-fabric
+	url = https://github.com/YTG123-Mods/manhunt-fabric
+[submodule "more-difficulties-mod"]
+	path = more-difficulties-mod
+	url = https://github.com/YTG123-Mods/more-difficulties-mod
